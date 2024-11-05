@@ -1,6 +1,6 @@
 ## Next.js Horizontal Scroll With Gsap ScrollTrigger
 
-&nbsp;<a href="https://app.netlify.com/sites/scrollssa/overview">
+&nbsp;<a href="https://scrollssa.netlify.app/">
 Link para o projeto 
 </a>&nbsp;
 
